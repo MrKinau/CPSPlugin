@@ -1,0 +1,10 @@
+name: CPS
+main: systems.kinau.cps.CPS
+version: 1.0
+author: MrKinau
+website: https://ldtke.de/
+description: Made with <3 for IchEsseHonig
+commands:
+  cps:
+    usage: /cps
+    description: Shows your CPS
